@@ -1,5 +1,6 @@
 # Developing a Recommendation and Price Prediction System for Used Cars on Craigslist
 A quantitative study comprising used car sales data scrapped from all over the United States between April to May of 2021.
+Tableau viz here: https://tabsoft.co/3MIISer
 
 ## TABLE OF CONTENTS
  - Summary
